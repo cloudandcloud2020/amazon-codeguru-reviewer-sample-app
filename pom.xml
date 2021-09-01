@@ -8,6 +8,10 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
+	<properties>
+  <sonar.organization>eb5fd72ee082e658b36aa75b7256c6771c6f6c94</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   <dependencies>
   	<dependency>
   		<groupId>com.amazonaws</groupId>
